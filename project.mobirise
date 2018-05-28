@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "engels",
-    "currentPage": "index.html",
+    "name": "engels juiste metadata",
+    "currentPage": "copyright-info.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -12,17 +12,17 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 55,
+    "uniqCompNum": 59,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /assets/images\n\n\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /assets/images\n\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "https://jeffreyandreka.github.io/portfolio-nederlands/",
+    "siteUrl": "https://jeffreyandreka.github.io/portfolio-eng/",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-114951527-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-114951527-1');\r\n</script>\r\n",
-    "cookiesAlert": "This website uses cookies, if you would like more information about cookies, visit: <a href='cookies.html'>cookies</a>.",
+    "cookiesAlert": "Wij maken op deze website gebruik van cookies. Wilt u meer informatie, lees hier over <a href='cookies.html'>cookies</a>.",
     "sitemapSwitcher": "on",
     "siteFonts": []
   },
@@ -50,7 +50,7 @@
               "color": "#ffffff"
             },
             ".mbr-brand__name a": {
-              "font-size": "12px"
+              "font-size": "13px"
             }
           },
           "_params": {
@@ -64,11 +64,11 @@
             "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">DRAWINGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"blindetekeningen.html\">BLIND DRAWINGS</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT<br></a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag-2.png",
+              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -81,7 +81,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDS</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nl.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDSE VERSIE<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -129,10 +129,10 @@
         }
       ]
     },
-    "copyright-info.html": {
+    "cookies.html": {
       "settings": {
-        "meta_descr": "Copyright info",
-        "title": "copyright info",
+        "meta_descr": "cookies disclaimer",
+        "title": "cookies",
         "order": 5
       },
       "components": [
@@ -149,7 +149,7 @@
               "color": "#ffffff"
             },
             ".mbr-brand__name a": {
-              "font-size": "12px"
+              "font-size": "13px"
             }
           },
           "_params": {
@@ -163,11 +163,11 @@
             "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">DRAWINGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"blindetekeningen.html\">BLIND DRAWINGS</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT<br></a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag-2.png",
+              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -180,32 +180,32 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDS</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nl.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDSE VERSIE<br></a>",
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-1g"
+          "_anchor": "menu-p"
         },
         {
           "_params": {
             "showMeta": true
           },
-          "title": "<p>Copyright&nbsp; &nbsp;</p>",
+          "title": "Cookies",
           "meta": "",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1h"
+          "_anchor": "header3-q"
         },
         {
-          "text": "<p>Everything on this website is the property of Jeffrey Andréka. None of it may be reproduced, manipulated without permission of the owner. If you have any questions contact me: <a href=\"mailto:andreka.jeffrey@gmail.com\">andreka.jeffrey@gmail.com</a></p><p><br></p>",
+          "text": "<p>What are cookies?\r</p><p>\r</p><p>This website uses cookies. Cookies are small files that are being sent with pages of this website that your browser saves to the hard-disk of your computer. The information in the cookies can be sent back to our servers during your next visit. \r</p><p>\r</p><p>Use of permanent cookies \r</p><p>\r</p><p>By use of permanent cookies we can recognize you when you visit this website again. In this way the website can be configured to your preferences. In this way you never have to configure your preferences so you save time for a more enjoyable visit to our website. Permanent cookies can be deleted in the settings of your browser.\r</p><p>\r</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1i"
+          "_anchor": "content1-s"
         }
       ]
     },
@@ -213,7 +213,7 @@
       "settings": {
         "meta_descr": "drawings",
         "title": "drawings",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -224,7 +224,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc-189.jpg",
+              "src": "@PROJECT_PATH@/assets/images/s-hertogenbosch-bitmap.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -261,7 +261,7 @@
               "color": "#ffffff"
             },
             ".mbr-brand__name a": {
-              "font-size": "12px"
+              "font-size": "13px"
             }
           },
           "_params": {
@@ -275,11 +275,11 @@
             "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">DRAWINGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"blindetekeningen.html\">BLIND DRAWINGS</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT<br></a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag-2.png",
+              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -292,7 +292,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDS</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nl.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDSE VERSIE<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -307,7 +307,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/help-elkander.png",
+              "src": "@PROJECT_PATH@/assets/images/help-elkander.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -319,7 +319,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "untitled - &nbsp;14,8cm x 10,5cm - mixed media",
+          "text": "ongetiteld - &nbsp;14,8cm x 10,5cm - mixed media<br>",
           "_tags": [
             "Theme"
           ],
@@ -340,7 +340,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/beautiful-gardens-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beautiful-gardens-4.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -372,7 +372,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/modeltekening-1.jpg",
+              "src": "@PROJECT_PATH@/assets/images/modeltekening-2.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -404,7 +404,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dsc-194.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jerommeke.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -416,7 +416,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Jerommeke - 50cm x 50cm - graphite on paper&nbsp;",
+          "text": "Jerommeke - 50cm x 50cm - graphite on paper",
           "_tags": [
             "Theme"
           ],
@@ -436,7 +436,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/link-wray-1.png",
+              "src": "@PROJECT_PATH@/assets/images/link-wray.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -468,7 +468,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/beautiful-gardens-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/beautiful-gardens-6.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -497,7 +497,7 @@
             "showMeta": true
           },
           "title": "Series \"Getting into Studio Vandersteen\"",
-          "meta": "21cm x 29,7cm, graphite",
+          "meta": "various formats, graphite on paper",
           "_tags": [
             "Theme"
           ],
@@ -515,32 +515,35 @@
             "bgColor": "#ffffff",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/lambiek-veelvoud.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-800x1135.jpg",
+                "image": "@PROJECT_PATH@/assets/images/de-bronzen-sleutel-tekening1-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/de-bronzen-sleutel-tekening1-2-800x1182.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-ii.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-ii-800x1129.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-ii-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-ii-1-800x1130.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-iii.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-iii-800x1139.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/de-bronzen-sleutel-tekening1-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/de-bronzen-sleutel-tekening1-1-800x1182.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-iii-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-iii-1-800x1139.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true,
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lambiek-veelvoud-1-800x1136.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
                 "title": ""
               }
             ]
@@ -560,7 +563,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/sax.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sax-1.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -572,7 +575,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "sax - 26,7 cm x 42 cm - graphite on paper<br><br>",
+          "text": "sax - 29,7 cm x 42 cm - graphite on paper<br>",
           "_tags": [
             "Theme"
           ],
@@ -589,12 +592,20 @@
             "showMeta": true
           },
           "title": "untitled series",
-          "meta": "family pictures repeated - 26,7 cm x 42 cm - graphite on paper and ink on paper",
+          "meta": "family pictures - 42 cm x 26,9 cm - mixed media",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1f"
+          "_anchor": "header3-1i"
+        },
+        {
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1j"
         },
         {
           "_params": {
@@ -607,28 +618,28 @@
             "bgColor": "#ffffff",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/paljaske-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/paljaske-1-800x1191.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/paljaske-3-.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/paljaske-3-800x1196.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/paljaske-2.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/paljaske-2-800x1180.jpg",
+                "image": "@PROJECT_PATH@/assets/images/paljaske-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paljaske-4-800x1172.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/paljaske-3.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paljaske-3-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/paljaske-3-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paljaske-3-1-800x1183.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -643,9 +654,9 @@
     },
     "blind-drawings.html": {
       "settings": {
-        "meta_descr": "blind drawings\n",
+        "meta_descr": "blind drawings",
         "title": "blind drawings",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -661,7 +672,7 @@
               "color": "#ffffff"
             },
             ".mbr-brand__name a": {
-              "font-size": "12px"
+              "font-size": "13px"
             }
           },
           "_params": {
@@ -675,11 +686,11 @@
             "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">DRAWINGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"blindetekeningen.html\">BLIND DRAWINGS</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT<br></a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag-2.png",
+              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -692,7 +703,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDS</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nl.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDSE VERSIE<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -710,32 +721,36 @@
             "bgColor": "#ffffff",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/in-donker-1.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/in-donker-1-800x563.jpg",
+                "image": "@PROJECT_PATH@/assets/images/in-donker-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/in-donker-2-800x563.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/in-donker-2-.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/in-donker-2-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/in-donker-2-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/in-donker-2-1-800x571.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/in-donker-8.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/in-donker-8-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/in-donker-9.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/in-donker-9-800x566.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/in-donker-12.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/in-donker-12-800x586.jpg",
+                "image": "@PROJECT_PATH@/assets/images/in-donker-13.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/in-donker-13-800x586.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false,
+                "title": ""
               }
             ]
           },
@@ -747,7 +762,7 @@
           "_anchor": "gallery1-l"
         },
         {
-          "text": "&nbsp;<br>I made these drawings blindfolded or in the dark. I wanted to experiment with the way I draw and what my idea of a good drawing was. In the end I experienced that it was better to stick with that idea instead of scrawling in the dark and adding an interpretation later. I wanted to experience the feeling of looking at someone else's drawing with my own drawings, by visually blocking the process.",
+          "text": "I made these drawings blindfolded or in the dark. I wanted to experiment with the way I draw and what my idea of a good drawing was. In the end I experienced that it was better to stick with that idea instead of scrawling in the dark and adding an interpretation later. I wanted to experience the feeling of looking at someone else's drawing with my own drawings, by visually blocking the process.",
           "_tags": [
             "Theme"
           ],
@@ -760,7 +775,7 @@
       "settings": {
         "meta_descr": "about",
         "title": "about",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -776,7 +791,7 @@
               "color": "#ffffff"
             },
             ".mbr-brand__name a": {
-              "font-size": "12px"
+              "font-size": "13px"
             }
           },
           "_params": {
@@ -790,11 +805,11 @@
             "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">DRAWINGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"blindetekeningen.html\">BLIND DRAWINGS</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT<br></a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag-2.png",
+              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -807,7 +822,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDS</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nl.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDSE VERSIE<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -827,7 +842,7 @@
           "_anchor": "header3-o"
         },
         {
-          "text": "<p>e-mail: <a href=\"mailto:andreka.jeffrey@gmail.com\">andreka.jeffrey@gmail.com</a></p><p>gsm: <a href=\"tel:+32493710770\">click here</a></p><p>adress: by request via e-mail</p>",
+          "text": "<p>e-mail: <a href=\"mailto:andreka.jeffrey@gmail.com\">andreka.jeffrey@gmail.com</a></p><p>gsm: click <a href=\"tel:+32493710770\">here</a></p><p>adress: by request via e-mail</p>",
           "_tags": [
             "Theme"
           ],
@@ -836,11 +851,11 @@
         }
       ]
     },
-    "cookies-eng.html": {
+    "copyright-info.html": {
       "settings": {
-        "meta_descr": "cookies explanation",
-        "title": "cookies english",
-        "order": 4
+        "meta_descr": "copyright info",
+        "title": "copyright info",
+        "order": 1
       },
       "components": [
         {
@@ -856,7 +871,7 @@
               "color": "#ffffff"
             },
             ".mbr-brand__name a": {
-              "font-size": "12px"
+              "font-size": "13px"
             }
           },
           "_params": {
@@ -870,11 +885,11 @@
             "hamburgerColor": "#ffffff"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"tekeningen.html\">DRAWINGS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"blindetekeningen.html\">BLIND DRAWINGS</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\" data-toolbar=\"-mbrBtnMove\">ABOUT<br></a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag-2.png",
+              "src": "@PROJECT_PATH@/assets/images/nederlandse-vlag.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -887,32 +902,32 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDS</a>",
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"https://jeffreyandreka.github.io/portfolio-nl.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">NEDERLANDSE VERSIE<br></a>",
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-p"
+          "_anchor": "menu-1k"
         },
         {
           "_params": {
             "showMeta": true
           },
-          "title": "Cookies",
+          "title": "Copyright info",
           "meta": "",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-q"
+          "_anchor": "header3-1l"
         },
         {
-          "text": "<p>What are cookies? </p><p>This website uses cookies. Cookies are small files that are being sent with pages of this website that your browser saves to the hard-disk of your computer. The information in the cookies can be sent back to our servers during your next visit.&nbsp;</p><p>Use of permanent cookies&nbsp;<br></p><p>\nBy use of permanent cookies we can recognize you when you visit this website again. In this way the website can be configured to your preferences. In this way you never have to configure your preferences so you save time for a more enjoyable visit to our website. Permanent cookies can be deleted in the settings of your browser.</p><p><br></p>",
+          "text": "<p>Everything on this website is the property of Jeffrey Andréka. None of it may be reproduced, manipulated without permission of the owner. If you have any questions, please contact me: andreka.jeffrey@gmail.com</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-s"
+          "_anchor": "content1-1m"
         }
       ]
     }
