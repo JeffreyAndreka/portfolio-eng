@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "nederlands-clone",
-    "currentPage": "cookies.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -423,7 +423,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/s-hertogenbosch-bitmap.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-189.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -435,7 +435,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Kaart - 59,4cm x 84,1cm - ink on paper<br>",
+          "text": "Kaart - 59,4cm x 84,1cm - ink and acrylic paint on paper<br>",
           "_tags": [
             "Theme"
           ],
