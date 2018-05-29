@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://jeffreyandreka.github.xn--io/portfolio-eng-/index.html</loc>
-	</url>
-	<url>
 		<loc>https://jeffreyandreka.github.xn--io/portfolio-eng-/cookies.html</loc>
 	</url>
 	<url>
@@ -16,5 +13,8 @@
 	</url>
 	<url>
 		<loc>https://jeffreyandreka.github.xn--io/portfolio-eng-/copyright-info.html</loc>
+	</url>
+	<url>
+		<loc>https://jeffreyandreka.github.xn--io/portfolio-eng-/index.html</loc>
 	</url>
 </urlset>
