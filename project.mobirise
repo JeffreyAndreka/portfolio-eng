@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "engels juiste metadata",
-    "currentPage": "index.html",
+    "currentPage": "drawings.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -133,7 +133,7 @@
       "settings": {
         "meta_descr": "cookies disclaimer",
         "title": "cookies",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -213,7 +213,7 @@
       "settings": {
         "meta_descr": "drawings",
         "title": "drawings",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -591,8 +591,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "untitled series",
-          "meta": "family pictures - 42 cm x 26,9 cm - mixed media",
+          "title": "untitled, repetition",
+          "meta": "42 cm x 26,9 cm - mixed media",
           "_tags": [
             "Theme"
           ],
@@ -656,7 +656,7 @@
       "settings": {
         "meta_descr": "blind drawings",
         "title": "blind drawings",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -775,7 +775,7 @@
       "settings": {
         "meta_descr": "about",
         "title": "about",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -855,7 +855,7 @@
       "settings": {
         "meta_descr": "copyright info",
         "title": "copyright info",
-        "order": 1
+        "order": 5
       },
       "components": [
         {
